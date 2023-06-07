@@ -1,4 +1,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sartaq12&theme=transparent&hide_border=true&border_radius=7&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![](NodeElder.gif)
 
 <!--
 **Sartaq12/Sartaq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
